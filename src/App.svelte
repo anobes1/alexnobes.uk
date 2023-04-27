@@ -1,6 +1,6 @@
 <main>
   <h1>get trolled nerd!</h1>
-  <h2>https://youtu.be/dQw4w9WgXcQ</h2>
+  <h2><a href="https://youtu.be/dQw4w9WgXcQ">Trolling</a></h2>
 </main>
 
 <style>
