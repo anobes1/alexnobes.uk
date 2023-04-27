@@ -1,12 +1,11 @@
 <main>
-  <h1>CLASSIFIED</h1>
+  <h1>CLASSIFIED!</h1>
   <h2>Hello</h2>
 </main>
 
 <style>
   h1 {
     color: rgb(255, 0, 0)
-
     }
   h2  {
     color: rgb(57, 57, 180);
